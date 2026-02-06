@@ -31,9 +31,9 @@ _backgroundSize: 50%
 ## It's a motorolla
 
 - Can't remember the model
-- It's like 7 by 3.5 inches or something
-- I think it's out of security updates?
-- Battery lasts like 2 days longer than my real phone
+- It's about 7 by 3.5 inches
+- Think it's out of security updates?
+- Battery lasts like 2 days
 
 ---
 
