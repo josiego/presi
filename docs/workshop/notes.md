@@ -37,7 +37,7 @@ footer: ShellHacks 2025
 ---
 
 <!--
-_backgroundImage: url("./assets/chester.png")
+_backgroundImage: url("./assets/phone1.png")
 _backgroundPosition: right
 _backgroundSize: 50%
 -->
