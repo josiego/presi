@@ -12,39 +12,34 @@ style: |
   }
 ---
 
-<!--
-footer: It's a phone
--->
-
-# My Burner Phone
+[view me as a page!](https://jarangutan.github.io/oapi-ai-gen-workshop)
 
 ---
 
 <!--
-_backgroundImage: url("./assets/phone1.png)
+footer: ShellHacks 2025
+-->
+
+# Phone
+
+---
+
+<!--
+_backgroundImage: url("./assets/phone1.png")
 _backgroundPosition: right
 _backgroundSize: 50%
 -->
 
-## It's a motorolla
+## whoami
 
-- Can't remember the model
-- It's like 7 by 3.5 inches or something
-- I think it's out of security updates?
-- Battery lasts like 2 days longer than my real phone
+Hi I'm Jose :-)
 
----
+I like:
 
-## What's it for?
-
-Going to places where I could lose or damage my expensive phone
-
-## What type of places?
-
-- Rallies and protests
-
-## Helpful links
-
-- [Surveillance Self-Defense](https://ssd.eff.org/)
+- Gardening
+- Sourdough
+- My dog --->
+- Reading documentation
+- Concerts
 
 ---
