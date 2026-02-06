@@ -21,7 +21,7 @@ footer: It's a phone
 ---
 
 <!--
-_backgroundImage: url("./assets/phone2.jpg)
+_backgroundImage: url("./assets/phone1.png)
 _backgroundPosition: right
 _backgroundSize: 50%
 -->
