@@ -12,16 +12,18 @@ style: |
   }
 ---
 
+---
+
 <!--
-footer: It's a phone
+footer: It's a phone :^)
 -->
 
-# My Burner Phone
+# Phone
 
 ---
 
 <!--
-_backgroundImage: url("./assets/phone1.png)
+_backgroundImage: url("./assets/phone1.png")
 _backgroundPosition: right
 _backgroundSize: 50%
 -->
@@ -39,9 +41,19 @@ _backgroundSize: 50%
 
 Going to places where I could lose or damage my expensive phone
 
+---
+
+<!--
+_backgroundImage: url("./assets/phone2.png")
+_backgroundPosition: right
+_backgroundSize: 50%
+-->
+
 ## What type of places?
 
 - Rallies and protests
+
+---
 
 ## Helpful links
 

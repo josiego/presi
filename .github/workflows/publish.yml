@@ -32,11 +32,11 @@ jobs:
       - name: Copy assets
         run: |
           mkdir build/
-          cp -r docs/workshop/assets build/
+          cp -r presi/phone/assets build/
       - name: Marp Build
         uses: docker://marpteam/marp-cli:v4.2.3
         with:
-          args: docs/workshop/notes.md --allow-local-files --html --template bespoke -o build/index.html
+          args: presi/phone/phone.md --allow-local-files --html --template bespoke -o build/index.html
         env:
           MARP_USER: root:root
       - name: Setup Pages
